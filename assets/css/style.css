@@ -7,7 +7,7 @@
 }
 
 .pagewidth {
-    max-width: 1300px;
+    max-width: 1500px;
     padding: 0px 75px;
     margin: auto;
 }
@@ -71,6 +71,10 @@
     font-family: 'Charmonman', cursive;
 }
 
+.home span {
+    color: maroon
+}
+
 .home .pagewidth {
     margin: auto 0;
 }
@@ -96,4 +100,125 @@
     border-radius: 0%;
     border-color: maroon;
     border-width: 5px;
-  }
+}
+
+/*About Me */
+
+.aboutme {
+    font-family: 'Raleway', sans-serif;
+}
+
+.aboutme .aboutme-content h1 {
+    text-align: left;
+    font-family: 'Charmonman', cursive;
+    color: whitesmoke;
+    font-weight: 700;
+    font-size: 65px;
+    
+}
+
+.aboutme .aboutme-content .picture-2 {
+    float: left;
+    margin: 5px 100px;
+    padding: 0px;
+    border-style: outset;
+    border-radius: 0%;
+    border-color: maroon;
+    border-width: 5px;
+}
+
+.aboutme .aboutme-content p {
+    font-size: 42px;
+    font-weight: 400;
+    color: whitesmoke;
+    text-align: left;
+}
+
+.aboutme .aboutme-content ul {
+    font-size: 19px;
+    font-weight: 400;
+    color: whitesmoke;
+    margin: auto;
+    text-align: left;
+}
+
+/* Projects */
+
+.projects .project-content {
+    float: left;
+    font-family: 'Raleway', sans-serif;
+}
+
+.projects .project-content h1 {
+    text-align: left;
+    font-family: 'Charmonman', cursive;
+    color: whitesmoke;
+    font-weight: 700;
+    font-size: 65px;
+}
+
+.projects .project-content .box {
+    display: flex;
+}
+
+.projects .project-content .box .algorhythyms {
+   height: 300px;
+   width: 400px;
+   margin: 30px; 
+}
+
+.projects .project-content .box .project2 {
+    margin: 30px; 
+ }
+
+ .projects .project-content .box .project3 {
+    margin: 30px; 
+ }
+   
+
+
+/* Contact  */
+.contact .contact-content {
+    margin: auto;
+}
+
+.contact .contact-content h1 {
+    text-align: left;
+    font-family: 'Charmonman', cursive;
+    color: whitesmoke;
+    font-weight: 700;
+    font-size: 65px;
+}
+
+.contact .contact-content .box {
+    display: flex;
+    align-items: center;
+    margin: 5px 10px;
+}
+
+.contact .contact-content .box ul {
+    list-style: none;
+    display: inline-flex;
+    margin: auto;
+}
+
+ion-icon {
+    font-size: 84px;
+    background-color: black;
+    color: maroon;
+    border-radius: 5px;
+}
+
+/*footer*/
+
+.footer{
+    background-color: black;
+    color: maroon;
+    text-align: center;
+    position: absolute;
+    bottom: -1500px;
+    width: 100%;
+    height: 50px
+  
+
+}   
