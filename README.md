@@ -1,4 +1,4 @@
-# module-2-challenge
+# Challenge 2: Portfolio
 
 ## Description
 
@@ -12,8 +12,8 @@ The purpose of this challenge was to showcase the skills learned in module 1 & 2
  </ul>
  
 ## Links
- Depolyed Site:
- Repository: 
+ Depolyed Site: https://sarnoire.github.io/module-2-challenge-portfolio/
+ <br>Repository: https://github.com/sarnoire/module-2-challenge-portfolio
  
  ## Images
  ![image](https://user-images.githubusercontent.com/115049982/213898481-5b093314-ef5e-440a-a02e-175592478908.png)
